@@ -1,0 +1,8 @@
+Ejercicio 1 : escriba un programa con el nombre y apellidos del usuario estando en el codigo fuente de dicho programa
+
+Ejercicio 2 : un programa que le pida al usuario que ingrese su nombre. El programa debe responder con un mensaje que diga hola al usuario, usando su nombre. Utiliza 13 lineas de codigo.
+
+Ejercicio 3 : escribe un programa que le pida al usuario que ingrese el anchon y el largo de una habitacion. Una vez que se hayan leido los valores, tu programa debe calcular y mostrar el area de la habitacion. El largo y el ancho se ingresaran como numeros de punto flotante. Incluye unidades en tu prompt y mensaje de salida; ya sea pies o metros, dependiendo de con qué unidad te sientas mas comodo trabajando. utilice 14 lineas de codigo. 
+
+Ejercicio 4 : 
+
